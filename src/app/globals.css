@@ -1,0 +1,6 @@
+@import "mantine-css";
+@import "mantine-highlight";
+@import "tailwindcss/base";
+
+@tailwind components;
+@tailwind utilities;
